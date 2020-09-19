@@ -2,8 +2,6 @@
 /**
  * main - entry point for program
  *
- * Description: print all ints followed by ', '
- * using putchar
  *
  * Return: always 0 (success)
  */
