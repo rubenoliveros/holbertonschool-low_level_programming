@@ -2,7 +2,6 @@
 /**
  * main - entry point for program
  *
- * Description: use putchar to print ints
  *
  * Return: always 0 (success)
  */

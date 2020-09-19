@@ -2,7 +2,6 @@
 /**
  * main - entry point for program
  *
- * Description: prints numbers 0-9
  *
  * Return: always 0 (success)
  */
