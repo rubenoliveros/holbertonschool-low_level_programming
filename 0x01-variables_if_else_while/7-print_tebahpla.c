@@ -2,7 +2,6 @@
 /**
  * main - entry point for program
  *
- * Description: print alphabet in reverse
  *
  * Return: always 0 (success)
  */
