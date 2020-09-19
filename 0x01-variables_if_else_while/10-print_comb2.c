@@ -15,7 +15,7 @@ int main(void)
 		{
 			putchar(i);
 			putchar(q);
-			if (q == 57)
+			if (i == 57 && q == 57)
 				continue;
 			putchar(44);
 			putchar(32);
