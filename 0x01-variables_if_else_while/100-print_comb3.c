@@ -14,11 +14,11 @@ int main(void)
       if (i != j && i < j)
       putchar(i);
 			putchar(j);
-      if(i == 56 && j == 57)
+      if (i == 56 && j == 57)
       continue;
       else
       putchar(44);
-			putchar(32);			
+			putchar(32);
 		}
 	}
 	putchar(10);
