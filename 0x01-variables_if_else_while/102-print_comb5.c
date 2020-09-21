@@ -5,9 +5,9 @@
  * Return: 0
  */
 int main(void)
-
 {
-	int i , j;
+	int i, j;
+
 	for (i = 0; i < 100; i++)
 	{
 		for (j = i + 1; j < 100; j++)
@@ -25,5 +25,5 @@ int main(void)
 		}
 	}
 putchar(10);
-return 0;
+return (0);
 }
