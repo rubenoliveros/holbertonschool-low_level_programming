@@ -1,4 +1,5 @@
-#include <stdio.h>
+#ifndef HOLBERTON_H
+#define HOLBERTON_H
 /**
  * main - Just adding prototypes to the library
  * 
@@ -17,3 +18,5 @@ void times_table(void);
 int add(int, int);
 void print_to_98(int n);
 void print_times_table(int n);
+
+#endif
