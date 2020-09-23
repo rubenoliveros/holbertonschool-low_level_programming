@@ -2,7 +2,7 @@
 /**
  * _islower - a function that checks for lowercase character.
  *
- *
+ * @c: variable used in this script for character.
  * Return: Returns 1 if a lowercase number, returns 0 if not
  */
 int _islower(int c)
