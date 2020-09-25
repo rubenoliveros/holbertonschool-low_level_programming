@@ -3,7 +3,7 @@
  * _isdigit - a function that checks for a digit (0 through 9).
  *
  * @c: variable used
- * 
+ *
  * Return: 1 yes 0 no
  */
 
